@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamE2aWVhZmQ2MnA0Mmc4bGt0amx2N2k2anI4MzVyd2hxa3Q2bDFuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)]
+[![MasterHead](https://www.canva.com/design/DAF-iLHsuh0/Sk2TfjFBDYbgou2kYpQprA/edit?utm_content=DAF-iLHsuh0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">🚀 Full Stack Developer | Turning ideas into code. <br>💻 Fluent in JavaScript, React, Node.js. <br>🌐 Building seamless web experiences. <br>🔧 Always learning, always coding.</h3>
 
